@@ -1,0 +1,92 @@
+﻿@model Student_Registration_Crud_Application.Models.StudentsTable
+
+@{
+    ViewData["Title"] = "Delete Student";
+}
+
+<h1 class="my-4 text-center">Delete Confirmation</h1>
+
+<div class="card shadow-sm">
+    <div class="card-body">
+        <h3 class="text-center text-danger">Are you sure you want to delete this student?</h3>
+        <hr />
+        <div class="text-center mb-4">
+            <h4 class="text-muted">Student Information</h4>
+        </div>
+        <dl class="row">
+            <dt class="col-sm-3 font-weight-bold">
+                @Html.DisplayNameFor(model => model.FirstName)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.FirstName)
+            </dd>
+
+            <dt class="col-sm-3 font-weight-bold">
+                @Html.DisplayNameFor(model => model.LastName)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.LastName)
+            </dd>
+
+            <dt class="col-sm-3 font-weight-bold">
+                @Html.DisplayNameFor(model => model.Username)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Username)
+            </dd>
+
+            <dt class="col-sm-3 font-weight-bold">
+                @Html.DisplayNameFor(model => model.Password)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.Password)
+            </dd>
+        </dl>
+
+        <form asp-action="Delete" class="text-center">
+            <input type="hidden" asp-for="StudentId" />
+            <button type="submit" class="btn btn-danger btn-lg">Delete</button>
+            <a asp-action="Index" class="btn btn-secondary btn-lg ms-3">Back to List</a>
+        </form>
+    </div>
+</div>
+
+<style>
+    h1 {
+        color: #343a40;
+    }
+
+    .card {
+        border-radius: 10px;
+        padding: 20px;
+        margin-top: 20px;
+    }
+
+    .font-weight-bold {
+        font-weight: 600;
+    }
+
+    .btn-danger {
+        background-color: #dc3545;
+        border: none;
+        padding: 10px 20px;
+    }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        border: none;
+        padding: 10px 20px;
+    }
+
+    .text-center {
+        text-align: center;
+    }
+
+    .ms-3 {
+        margin-left: 1rem;
+    }
+
+    .text-muted {
+        color: #6c757d;
+    }
+</style>

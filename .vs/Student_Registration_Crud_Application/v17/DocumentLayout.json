@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\Practice\\Asp\\Final\\Basic CrudApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4361D1AD-39FF-4FC1-8C47-3D393BE044C8}|Student_Registration_Crud_Application\\Student_Registration_Crud_Application.csproj|e:\\projects\\practice\\asp\\final\\basic crudapp\\student_registration_crud_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4361D1AD-39FF-4FC1-8C47-3D393BE044C8}|Student_Registration_Crud_Application\\Student_Registration_Crud_Application.csproj|solutionrelative:student_registration_crud_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4361D1AD-39FF-4FC1-8C47-3D393BE044C8}|Student_Registration_Crud_Application\\Student_Registration_Crud_Application.csproj|e:\\projects\\practice\\asp\\final\\basic crudapp\\student_registration_crud_application\\controllers\\studentstablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4361D1AD-39FF-4FC1-8C47-3D393BE044C8}|Student_Registration_Crud_Application\\Student_Registration_Crud_Application.csproj|solutionrelative:student_registration_crud_application\\controllers\\studentstablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4361D1AD-39FF-4FC1-8C47-3D393BE044C8}|Student_Registration_Crud_Application\\Student_Registration_Crud_Application.csproj|e:\\projects\\practice\\asp\\final\\basic crudapp\\student_registration_crud_application\\views\\studentstables\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4361D1AD-39FF-4FC1-8C47-3D393BE044C8}|Student_Registration_Crud_Application\\Student_Registration_Crud_Application.csproj|solutionrelative:student_registration_crud_application\\views\\studentstables\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4361D1AD-39FF-4FC1-8C47-3D393BE044C8}|Student_Registration_Crud_Application\\Student_Registration_Crud_Application.csproj|e:\\projects\\practice\\asp\\final\\basic crudapp\\student_registration_crud_application\\views\\studentstables\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4361D1AD-39FF-4FC1-8C47-3D393BE044C8}|Student_Registration_Crud_Application\\Student_Registration_Crud_Application.csproj|solutionrelative:student_registration_crud_application\\views\\studentstables\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4361D1AD-39FF-4FC1-8C47-3D393BE044C8}|Student_Registration_Crud_Application\\Student_Registration_Crud_Application.csproj|e:\\projects\\practice\\asp\\final\\basic crudapp\\student_registration_crud_application\\views\\studentstables\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4361D1AD-39FF-4FC1-8C47-3D393BE044C8}|Student_Registration_Crud_Application\\Student_Registration_Crud_Application.csproj|solutionrelative:student_registration_crud_application\\views\\studentstables\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4361D1AD-39FF-4FC1-8C47-3D393BE044C8}|Student_Registration_Crud_Application\\Student_Registration_Crud_Application.csproj|e:\\projects\\practice\\asp\\final\\basic crudapp\\student_registration_crud_application\\views\\studentstables\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4361D1AD-39FF-4FC1-8C47-3D393BE044C8}|Student_Registration_Crud_Application\\Student_Registration_Crud_Application.csproj|solutionrelative:student_registration_crud_application\\views\\studentstables\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\Practice\\Asp\\Final\\Basic CrudApp\\Student_Registration_Crud_Application\\Program.cs",
+              "RelativeDocumentMoniker": "Student_Registration_Crud_Application\\Program.cs",
+              "ToolTip": "E:\\Projects\\Practice\\Asp\\Final\\Basic CrudApp\\Student_Registration_Crud_Application\\Program.cs*",
+              "RelativeToolTip": "Student_Registration_Crud_Application\\Program.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:03:15.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Projects\\Practice\\Asp\\Final\\Basic CrudApp\\Student_Registration_Crud_Application\\Views\\StudentsTables\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Student_Registration_Crud_Application\\Views\\StudentsTables\\Delete.cshtml",
+              "ToolTip": "E:\\Projects\\Practice\\Asp\\Final\\Basic CrudApp\\Student_Registration_Crud_Application\\Views\\StudentsTables\\Delete.cshtml",
+              "RelativeToolTip": "Student_Registration_Crud_Application\\Views\\StudentsTables\\Delete.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T11:34:46.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Projects\\Practice\\Asp\\Final\\Basic CrudApp\\Student_Registration_Crud_Application\\Views\\StudentsTables\\Details.cshtml",
+              "RelativeDocumentMoniker": "Student_Registration_Crud_Application\\Views\\StudentsTables\\Details.cshtml",
+              "ToolTip": "E:\\Projects\\Practice\\Asp\\Final\\Basic CrudApp\\Student_Registration_Crud_Application\\Views\\StudentsTables\\Details.cshtml",
+              "RelativeToolTip": "Student_Registration_Crud_Application\\Views\\StudentsTables\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T11:17:02.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Projects\\Practice\\Asp\\Final\\Basic CrudApp\\Student_Registration_Crud_Application\\Views\\StudentsTables\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Student_Registration_Crud_Application\\Views\\StudentsTables\\Edit.cshtml",
+              "ToolTip": "E:\\Projects\\Practice\\Asp\\Final\\Basic CrudApp\\Student_Registration_Crud_Application\\Views\\StudentsTables\\Edit.cshtml",
+              "RelativeToolTip": "Student_Registration_Crud_Application\\Views\\StudentsTables\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T08:24:40.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Projects\\Practice\\Asp\\Final\\Basic CrudApp\\Student_Registration_Crud_Application\\Views\\StudentsTables\\Index.cshtml",
+              "RelativeDocumentMoniker": "Student_Registration_Crud_Application\\Views\\StudentsTables\\Index.cshtml",
+              "ToolTip": "E:\\Projects\\Practice\\Asp\\Final\\Basic CrudApp\\Student_Registration_Crud_Application\\Views\\StudentsTables\\Index.cshtml",
+              "RelativeToolTip": "Student_Registration_Crud_Application\\Views\\StudentsTables\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T04:29:32.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsTablesController.cs",
+              "DocumentMoniker": "E:\\Projects\\Practice\\Asp\\Final\\Basic CrudApp\\Student_Registration_Crud_Application\\Controllers\\StudentsTablesController.cs",
+              "RelativeDocumentMoniker": "Student_Registration_Crud_Application\\Controllers\\StudentsTablesController.cs",
+              "ToolTip": "E:\\Projects\\Practice\\Asp\\Final\\Basic CrudApp\\Student_Registration_Crud_Application\\Controllers\\StudentsTablesController.cs",
+              "RelativeToolTip": "Student_Registration_Crud_Application\\Controllers\\StudentsTablesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:34:15.202Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
